@@ -23,7 +23,7 @@
   Jordan Edginton
 
   ## SCREENSHOTS
-  <img src=./public/images/image.png />
+  <img src=./assets/images/image.png />
   
 
   ## LICENSE
